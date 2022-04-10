@@ -1,0 +1,17 @@
+nohup: blockchain-wallet-service: No such file or directory
+error Unknown workspace "blockchain-wallet-service".
+info Visit https://yarnpkg.com/en/docs/cli/workspace for documentation about this command.
+error Command "start" not found.
+info Visit https://yarnpkg.com/en/docs/cli/run for documentation about this command.
+error Command failed.
+Exit code: 1
+Command: /usr/local/Cellar/node/14.8.0/bin/node
+Arguments: /usr/local/lib/node_modules/yarn/lib/cli.js start --port 3030
+Directory: /Users/rogerlewis/web/wmpm-wallet/packages/blockchain-wallet-v4-frontend
+Output:
+
+info Visit https://yarnpkg.com/en/docs/cli/workspace for documentation about this command.
+error Unknown workspace "wmpm-wallet".
+info Visit https://yarnpkg.com/en/docs/cli/workspace for documentation about this command.
+error Unknown workspace "wmpm-wallet".
+info Visit https://yarnpkg.com/en/docs/cli/workspace for documentation about this command.
