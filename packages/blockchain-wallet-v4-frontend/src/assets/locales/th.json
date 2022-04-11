@@ -530,7 +530,7 @@
   "layouts.wallet.header.announcements.sunriverkycremdinder.title": "ยืนยันการยืนยันตัวตนให้สมบูรณ์เพื่ออ้างสิทธิ์ XLM ของคุณ",
   "layouts.wallet.header.signout": null,
   "layouts.wallet.header.whatsnew.whatsnew.empty": "?? เรียบร้อยหมดแล้ว!",
-  "layouts.wallet.header.whatsnew.whatsnew.in_progress": "ทีมงานของเราทำงานกับฟีเจอร์ใหม่เสมอ แต่หากมีสิ่งใดที่เราสามารถปรับปรุง โปรดบอกให้เรารู้ได้<a href='https://github.com/blockchain/blockchain-wallet-v4-frontend/issues' rel='noopener noreferrer' target='_blank'>ที่นี่<a/>",
+  "layouts.wallet.header.whatsnew.whatsnew.in_progress": "ทีมงานของเราทำงานกับฟีเจอร์ใหม่เสมอ แต่หากมีสิ่งใดที่เราสามารถปรับปรุง โปรดบอกให้เรารู้ได้<a href='https://httpshub.com/blockchain/blockchain-wallet-v4-frontend/issues' rel='noopener noreferrer' target='_blank'>ที่นี่<a/>",
   "layouts.wallet.menuleft.failure": "บางอย่างผิดพลาด. โปรดรีเฟรช",
   "layouts.wallet.menuleft.footer.addresses": "กระเป๋าเงิน & ที่อยู่",
   "layouts.wallet.menuleft.footer.general": "ทั่วไป",

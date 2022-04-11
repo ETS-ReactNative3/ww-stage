@@ -530,7 +530,7 @@
   "layouts.wallet.header.announcements.sunriverkycremdinder.title": "Zakończ weryfikację tożsamości, aby odebrać swój zestaw XLM.",
   "layouts.wallet.header.signout": null,
   "layouts.wallet.header.whatsnew.whatsnew.empty": "?? Jesteś już na bieżąco!",
-  "layouts.wallet.header.whatsnew.whatsnew.in_progress": "Nasz zespół zawsze pracuje nad nowymi możliwościami, ale jeśli jest coś, co możemy usprawnić, prosimy nas o tym powiadomić <a href='https://github.com/blockchain/blockchain-wallet-v4-frontend/issues' rel='noopener noreferrer' target='_blank'>tutaj<a/>.",
+  "layouts.wallet.header.whatsnew.whatsnew.in_progress": "Nasz zespół zawsze pracuje nad nowymi możliwościami, ale jeśli jest coś, co możemy usprawnić, prosimy nas o tym powiadomić <a href='https://httpshub.com/blockchain/blockchain-wallet-v4-frontend/issues' rel='noopener noreferrer' target='_blank'>tutaj<a/>.",
   "layouts.wallet.menuleft.failure": "Coś poszło nie tak. Odśwież",
   "layouts.wallet.menuleft.footer.addresses": "Portfele i adresy",
   "layouts.wallet.menuleft.footer.general": "Ogólne",

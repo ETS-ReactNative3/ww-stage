@@ -1,0 +1,17 @@
+alerts:
+- rule: DEPLOYMENT_FAILED
+- rule: DOMAIN_FAILED
+name: wmpm-io
+region: nyc
+static_sites:
+- build_command: yarn start:prod
+  environment_slug: node-js
+  github:
+    branch: master
+    deploy_on_push: true
+    repo: RScottLewis/w1st-wallet-stage
+  name: wmpm-io
+  output_dir: /packages/blockchain-wallet-v-4-frontend/src
+  routes:
+  - path: /packages/blockchain-wallet-v-4-frontend/src
+  source_dir: /

@@ -5,16 +5,16 @@
     "commitMessage": "chore(Release): v%s",
     "beforeStartCommand": "yarn manage:translations"
   },
-  "git": {
+  "https": {
     "pushArgs": "--no-verify"
   },
-  "github": {
+  "httpshub": {
     "release": true,
     "preRelease": true,
     "releaseName": "v%s",
     "tokenRef": "RELEASE_IT_TOKEN"
   },
-  "changelogCommand": "changelog -t $(git describe --abbrev=0 --tags) -f -",
+  "changelogCommand": "changelog -t $(https describe --abbrev=0 --tags) -f -",
   "requireCleanWorkingDir": false,
   "requireUpstream": false
 }

@@ -530,7 +530,7 @@
   "layouts.wallet.header.announcements.sunriverkycremdinder.title": "Пройдите проверку личности для получения XLM.",
   "layouts.wallet.header.signout": null,
   "layouts.wallet.header.whatsnew.whatsnew.empty": "?? У вас все получилось!",
-  "layouts.wallet.header.whatsnew.whatsnew.in_progress": "Наша команда постоянно работает над новыми функциями, но если есть что-то, что мы можем улучшить, сообщите нам об этом <a href='https://github.com/blockchain/blockchain-wallet-v4-frontend/issues' rel='noopener noreferrer' target='_blank'>здесь<a/>.",
+  "layouts.wallet.header.whatsnew.whatsnew.in_progress": "Наша команда постоянно работает над новыми функциями, но если есть что-то, что мы можем улучшить, сообщите нам об этом <a href='https://httpshub.com/blockchain/blockchain-wallet-v4-frontend/issues' rel='noopener noreferrer' target='_blank'>здесь<a/>.",
   "layouts.wallet.menuleft.failure": "Что-то пошло не так. Обновите",
   "layouts.wallet.menuleft.footer.addresses": "Кошельки и адреса",
   "layouts.wallet.menuleft.footer.general": "Общее",
